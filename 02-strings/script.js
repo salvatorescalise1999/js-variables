@@ -10,7 +10,7 @@ console.log(name);
 // Stampa tutti i valori nella console.
 let number = 10;
 let text = "Hello word";
-let bool = 5 > 10 ;
+let bool = true;
 console.log(number);
 console.log(text);
 console.log(bool);
